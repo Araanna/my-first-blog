@@ -1,5 +1,5 @@
 # 🧡 Django Girls Workshop Project Setup Guide
-#madebymela
+##madebymela
 
 Welcome to the Django Girls Workshop! This README will walk you through setting up your Django project on your local machine.
 
